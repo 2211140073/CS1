@@ -13,7 +13,7 @@ gem "sqlite3", "~> 1.4",group: :development
 
 gem "pg", "~> 1.4",group: :production
 # Use the Puma web server [https://github.com/puma/puma]
-gem "puma", ">= 5.0"
+gem "puma", "~> 5.0"
 
 # Use JavaScript with ESM import maps [https://github.com/rails/importmap-rails]
 gem "importmap-rails"
